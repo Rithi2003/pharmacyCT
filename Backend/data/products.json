@@ -1,0 +1,130 @@
+[
+  {
+    "name": "COLDACT NEW Capsule 20",
+    "price": "67",
+    "description": "COLDACT CAPSULE is a combination of Phenylephrine and Chlorpheniramine which belongs to the group of medicines called Nasal decongestants and Antihistamines respectively.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697981078/products/cough%20and%20cold/coldact-cold-relief-tablet-500x500_uiggw2.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MedPlus",
+    "stock": 125,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "JinCold Capsule 20",
+    "price": "100",
+    "description": "Zincold Tablet is a combination medicine that effectively relieves symptoms of common cold such as blocked nose, runny nose, watery eyes, sneezing, and congestion or stuffiness. It helps to loosen thick mucus, making it easier to cough out. This makes it easier for air to move in and out.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979442/products/cough%20and%20cold/jincold_cxogwg.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 125,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Himalaya Tulsi Syrup",
+    "price": "90",
+    "description": "Himalaya Tulasi Syrup helps suppress cough and aids the mobilization of mucus. It assists in calming and dilating the lung's airways providing relief.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979389/products/cough%20and%20cold/tulsi_syrup_ta3ohd.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "Himalaya",
+    "stock": 120,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Aayudh Syrup",
+    "price": "80",
+    "description": "It is made using a variety of natural herbs with antiviral and immunity boosting properties that makes it helpful in case of viral infections and to increase the body's immunity. It is beneficial in viral and bacterial infections, sore throat, cough and cold, flu, etc., with antioxidant and immunomodulatory properties.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979292/products/cough%20and%20cold/aayudh_gu7lnd.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MedPlus",
+    "stock": 50,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Crocin tablet",
+    "price": "50",
+    "description": "It is used to reduce fever and treat mild to moderate pain. Also, it is used to relieve headache, migraine, toothache.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979040/products/cough%20and%20cold/crocin_vnhnsa.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 150,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Cofsils",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697978843/products/cough%20and%20cold/cofsils_xsh8fe.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  }
+
+
+  {
+    "name": "Cofsils",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697978843/products/cough%20and%20cold/cofsils_xsh8fe.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  }
+]
